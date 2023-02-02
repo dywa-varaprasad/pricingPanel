@@ -1,3 +1,3 @@
 # pricingPanel
-## This repo is made from a Udemy Courses from Colt Steele
+## This project is from a Udemy Courses of Web Development from Colt Steele
 ### credits to the Respective Owners 
